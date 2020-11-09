@@ -22,5 +22,7 @@ The graph below indicates 2 noteable findings. May had the most campaigns launch
 
 ![Theater_Outcomes_vs_Launch.png](https://github.com/sholathompson/repo-kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 --
+###### One Conclusion about The Outcomes Based on Goals
+As the graph below indicates the most successful campaigns had funding goals under $1,000
 
 
