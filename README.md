@@ -17,5 +17,10 @@ Screenshot 2 shows a pivot table created to analyze the relationship between cam
 ###### Challenges
 In the original data set, date was formatted to display date and time serial numbers as date values. I fixed this by formatting the date cells to United States, Gregorian, date formatting
 ## Results
-###### Two Comclusions about Theater Outcomes by Launch Date
+###### Two Conclusions about Theater Outcomes by Launch Date
+The graph below indicates 2 noteable findings. May had the most campaigns launched that were successful and also had the most campaigns launched in general accross all outcomes (sucessful, live, failed and cancelled). Also 47% of campaigns launched in December failed, hence Decemember is the month with the least successful campaigns launched.
+
+![Theater_Outcomes_vs_Launch.png](https://github.com/sholathompson/repo-kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+--
+
 
