@@ -7,3 +7,4 @@ Using the Kickstarter dataset provided, the purpose of this project is to analze
 ## Analysis and Challenges
 ###### Analysis
 Screenshot 1, shows a pivot table created from the original data set that represents "Theater Outcomes by Launch Date." This pivot table was created to visualize the relationship between outcomes and launch month. 
+![Theater Outcomes By Launch Date.png](
