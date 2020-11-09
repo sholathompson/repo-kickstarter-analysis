@@ -10,6 +10,12 @@ Screenshot 1 shows a pivot table was created to analyze the relationship between
 
 ![Theater Outcomes By Launch Date.png](https://github.com/sholathompson/repo-kickstarter-analysis/blob/main/Theater%20Outcomes%20By%20Launch%20Date.png)
 --
-Screenshot 2 shows a pivot table created to analyze the relationship between campaign outcome based on funding goal. Results show that the most successful campaigns were under $1,000. Also, 
+Screenshot 2 shows a pivot table created to analyze the relationship between campaign outcome based on funding goal. Results show that the most successful campaigns had funding goals under $1,000 and campaigns over $50000 were more likely to fail.
 
-![Outcomes Based of Goals.png](
+![Outcomes Based of Goals.png](https://github.com/sholathompson/repo-kickstarter-analysis/blob/main/Outcomes%20Based%20of%20Goals.png)
+--
+###### Challenges
+In the original data set, date was formatted to display date and time serial numbers as date values. I fixed this by formatting the date cells to United States, Gregorian, date formatting
+## Results
+###### Two Comclusions about Theater Outcomes by Launch Date
+
