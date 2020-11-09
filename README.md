@@ -11,3 +11,5 @@ Screenshot 1 shows a pivot table was created to analyze the relationship between
 ![Theater Outcomes By Launch Date.png](https://github.com/sholathompson/repo-kickstarter-analysis/blob/main/Theater%20Outcomes%20By%20Launch%20Date.png)
 --
 Screenshot 2 shows a pivot table created to analyze the relationship between campaign outcome based on funding goal. Results show that the most successful campaigns were under $1,000. Also, 
+
+![Outcomes Based of Goals.png](
