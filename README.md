@@ -23,6 +23,11 @@ The graph below indicates 2 noteable findings. May had the most campaigns launch
 ![Theater_Outcomes_vs_Launch.png](https://github.com/sholathompson/repo-kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 --
 ###### One Conclusion about The Outcomes Based on Goals
-As the graph below indicates the most successful campaigns had funding goals under $1,000
+As the graph below indicates the most successful campaigns had funding goals under $1,000.
+
+![Outcomes_vs_Goals.png](https://github.com/sholathompson/repo-kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+--
+## Summary Of The Limitations Of The Dataset
+The dataset did not come with a codebook and as a result there were a few variable names that I had to assume what data was represented in that column. Recommendation for qualitative data analysis of "blurb" column as the way that the project was described may affect fundings. Further other graphs could of compared the relationship between number of "backers" (i.e. persons donating to fund the project) and outcome. Also, client could benefit from information on the relationship between spotlight (i.e. whether their kickstarter was promoted on the kickstarter page) and outcome.
 
 
